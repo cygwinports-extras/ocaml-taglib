@@ -1,0 +1,5 @@
+category: Audio OCaml
+requires: cygwin ocaml taglib
+sdesc: "OCaml TagLib bindings"
+ldesc: "This package contains an O'Caml interface for
+TagLib Audio Meta-Data Library, otherwise known as taglib."
