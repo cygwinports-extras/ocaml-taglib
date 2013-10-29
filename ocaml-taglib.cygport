@@ -1,7 +1,7 @@
 inherit ocaml
 
 NAME="ocaml-taglib"
-VERSION=0.2.0
+VERSION=0.3.1
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="OCaml TagLib bindings"
