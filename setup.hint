@@ -1,5 +1,0 @@
-category: Audio OCaml
-requires: libgcc1 libstdc++6 libtag1 libtag-devel ocaml-base
-sdesc: "OCaml TagLib bindings"
-ldesc: "This package contains an O'Caml interface for
-TagLib Audio Meta-Data Library, otherwise known as taglib."
